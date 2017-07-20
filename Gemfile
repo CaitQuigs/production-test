@@ -20,6 +20,8 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'fog'
+gem 'figaro'
 gem 'bootstrap-sass'
 gem 'faker'
 # Use CoffeeScript for .coffee assets and views
